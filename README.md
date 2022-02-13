@@ -1,2 +1,3 @@
 # BlablablaGenerator
-Python project
+
+This is a blablabla generator, create texts poems, phrases.
